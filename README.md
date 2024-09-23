@@ -1,0 +1,1 @@
+# jenkins-declarative-master-client-config-project
